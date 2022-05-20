@@ -1,5 +1,7 @@
 # Serilog.Sinks.LogDNA #
 
+** This fork is under construction. **
+
 Serilog Sink that sends log events to LogDNA https://logdna.com
 
 **Package** - [Serilog.Sinks.LogDNA](http://nuget.org/packages/serilog.sinks.logdna) | **Platforms** - .NET 4.5, netstandard2.0
